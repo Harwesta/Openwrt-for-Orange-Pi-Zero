@@ -1,8 +1,8 @@
 # Openwrt v19.07.5 for Orange Pi Zero board
 
-MicroSD image file in 'zip' file
-Configuration file in 'config.opiz' file
-Installed modules in 'manifest' file
+MicroSD image file in 'zip' file.
+Configuration file in 'config.opiz' file.
+Installed modules in 'manifest' file.
 
 - LAN static 192.168.1.1, DHCP enable.
 - WiFi access point brigded with LAN. SSID "Opiz", no password.
